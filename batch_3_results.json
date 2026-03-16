@@ -1,0 +1,302 @@
+[
+  {
+    "Chunk ID": 19,
+    "Themes": ["Education", "Skills Development"],
+    "Concise Description": "Overhaul the skills development system to implement a dual training model integrating education and workplace experience.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We are undertaking a fundamental overhaul of the skills development system to implement a dual training model that integrates education with practical workplace experience."],
+    "Reasoning": "The President explicitly identifies this overhaul as a priority to transform the current skills training approach."
+  },
+  {
+    "Chunk ID": 19,
+    "Themes": ["Education", "Skills Development"],
+    "Concise Description": "Reform and reduce the number of Sector Education and Training Authorities (SETAs) to improve governance and alignment.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We will reform and reduce the number of Sector Education and Training Authorities to improve governance, strengthen industry participation, raise the quality of training and better align skills development with the needs of the economy."],
+    "Reasoning": "Explicit commitment to structural reform within the skills sector."
+  },
+  {
+    "Chunk ID": 19,
+    "Themes": ["Education", "Skills Development"],
+    "Concise Description": "Increase the skills development levy returned to employers to its original level of 40%.",
+    "Who/Organization": "Government",
+    "Amount": "40%",
+    "Timeline": "N/A",
+    "Exact Quotes": ["To support effective workplace-based learning, we will increase the proportion of the skills development levy returned to employers, restoring it to its original level of 40%."],
+    "Reasoning": "Specific fiscal commitment to incentivize employer participation in training."
+  },
+  {
+    "Chunk ID": 19,
+    "Themes": ["Education", "Skills Development"],
+    "Concise Description": "Transform the National Skills Fund into an agile, outcomes-driven instrument for youth employment.",
+    "Who/Organization": "Government / National Skills Fund",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We will also transform the National Skills Fund into a more agile, outcomes-driven instrument that supports unemployed young people to access workplace experience and employment, building on successful initiatives such as Jobs Boost."],
+    "Reasoning": "Commitment to institutional reform of the National Skills Fund."
+  },
+  {
+    "Chunk ID": 19,
+    "Themes": ["Education", "Higher Education"],
+    "Concise Description": "Develop a proposal for building more universities and TVET colleges with specialized focus areas.",
+    "Who/Organization": "Ministers of Finance and Higher Education",
+    "Amount": "N/A",
+    "Timeline": "Immediate (Directed)",
+    "Exact Quotes": ["I have directed the Ministers of Finance and Higher Education to work on a proposal to build more universities and TVET colleges with specialised areas of focus."],
+    "Reasoning": "Presidential directive to relevant ministers to plan for infrastructure expansion in higher education."
+  },
+  {
+    "Chunk ID": 20,
+    "Themes": ["Child Health", "Malnutrition"],
+    "Concise Description": "End child stunting by 2030 and tackle malnutrition among young children.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "By 2030",
+    "Exact Quotes": ["This year, we will embark on a mission to end child stunting by 2030 and tackle malnutrition among young children, in line with the National Strategy to Accelerate Action for Children."],
+    "Reasoning": "Explicit long-term target to address a significant health crisis."
+  },
+  {
+    "Chunk ID": 20,
+    "Themes": ["Child Health", "Social Protection"],
+    "Concise Description": "Implement targeted nutritional interventions for pregnant women and low birth-weight children.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["Building on existing support such as the Child Support Grant, we will implement targeted interventions to ensure that pregnant women and low birth-weight children get the protein and nutrients that they need."],
+    "Reasoning": "Commitment to specific health interventions for vulnerable groups."
+  },
+  {
+    "Chunk ID": 20,
+    "Themes": ["Child Health", "Budgeting"],
+    "Concise Description": "Allocate specific funding for actions against child stunting in the upcoming budget statement.",
+    "Who/Organization": "Government / Treasury",
+    "Amount": "To be specified in MTBPS",
+    "Timeline": "Medium-Term Budget Policy Statement (MTBPS)",
+    "Exact Quotes": ["The Medium-Term Budget Policy Statement will set out a clear allocation for the actions we need to take."],
+    "Reasoning": "Fiscal commitment to support the mission against child stunting."
+  },
+  {
+    "Chunk ID": 20,
+    "Themes": ["Public Health", "Alcohol Regulation"],
+    "Concise Description": "Implement measures to curb excessive alcohol use, including pricing, excise duties, and advertising restrictions.",
+    "Who/Organization": "National Government",
+    "Amount": "N/A",
+    "Timeline": "Consultation stage",
+    "Exact Quotes": ["As national government, we have proposed measures to curb excessive alcohol use, including minimum unit pricing or higher excise duties and greater restrictions on alcohol advertising, which we are consulting on with stakeholders."],
+    "Reasoning": "Proposed policy changes to address the social impacts of alcohol abuse."
+  },
+  {
+    "Chunk ID": 20,
+    "Themes": ["Social Protection"],
+    "Concise Description": "Continue the Social Relief of Distress (SRD) Grant and redesign it to support livelihoods and productive activity.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "Redesign starting this year",
+    "Exact Quotes": ["As a transformative instrument to improve the lives of the poorest and most vulnerable people, this grant will be continued. This year, we will redesign the grant to more effectively support livelihoods, skills development, work opportunities and productive activity."],
+    "Reasoning": "Commitment to maintaining and improving a key social safety net."
+  },
+  {
+    "Chunk ID": 21,
+    "Themes": ["Housing"],
+    "Concise Description": "Introduce a new housing model providing subsidies for ownership and rental in suitable areas.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We are introducing a new model for housing, where people are given subsidies for ownership and rental in areas that are suitable for them. We are shifting from building houses for people to supporting them to build, buy or rent their own housing."],
+    "Reasoning": "Strategic shift in housing policy to empower citizens to secure their own housing."
+  },
+  {
+    "Chunk ID": 21,
+    "Themes": ["Land Restitution", "District Six"],
+    "Concise Description": "Proceed with Phase 4 of the District Six restoration project.",
+    "Who/Organization": "Government",
+    "Amount": "R500 million",
+    "Timeline": "Proceeding",
+    "Exact Quotes": ["With R500 million allocated to this work, we are proceeding with Phase 4 of construction."],
+    "Reasoning": "Concrete funding and project phase commitment for historical redress."
+  },
+  {
+    "Chunk ID": 21,
+    "Themes": ["Health Infrastructure"],
+    "Concise Description": "Undertake substantial investment in health infrastructure, prioritising academic hospitals.",
+    "Who/Organization": "Government",
+    "Amount": "Substantial",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We will be undertaking substantial investment in health infrastructure, prioritising the construction and revitalisation of academic hospitals."],
+    "Reasoning": "Broad commitment to upgrading the nation's healthcare facilities."
+  },
+  {
+    "Chunk ID": 21,
+    "Themes": ["Health Infrastructure"],
+    "Concise Description": "Finance the building and revitalisation of healthcare facilities, starting with George Mukhari Hospital.",
+    "Who/Organization": "Government / Public and Private Financing Institutions",
+    "Amount": "N/A",
+    "Timeline": "Starting now",
+    "Exact Quotes": ["Starting with George Mukhari Hospital, we will be working with various public and private financing institutions to finance the building and revitalisation of healthcare facilities."],
+    "Reasoning": "Specific project commitment for hospital infrastructure revitalisation."
+  },
+  {
+    "Chunk ID": 22,
+    "Themes": ["Public Health", "Cervical Cancer"],
+    "Concise Description": "Eliminate cervical cancer by ensuring girls aged 9-15 receive the HPV vaccine.",
+    "Who/Organization": "Government / Society",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We have also committed to eliminate cervical cancer in our country by mobilising society to ensure that every young girl between the ages of 9 and 15 receives the HPV vaccine."],
+    "Reasoning": "Clear public health commitment targeting a specific disease."
+  },
+  {
+    "Chunk ID": 22,
+    "Themes": ["GBVF", "Survivor Support"],
+    "Concise Description": "Scale up survivor-centred support for gender-based violence, including shelters and social workers in police stations.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We will scale up survivor-centred support, ensuring access to shelters, one-stop service centres, mobile and rural outreach and the placement of Social Workers in police stations."],
+    "Reasoning": "Specific actions committed to support survivors of GBVF."
+  },
+  {
+    "Chunk ID": 22,
+    "Themes": ["Border Security"],
+    "Concise Description": "Prioritize funding for border security, covering infrastructure, technology, and personnel.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "This year",
+    "Exact Quotes": ["This year, we will take additional steps to secure our borders. Funding to strengthen border security will be prioritised, covering infrastructure, technology and people."],
+    "Reasoning": "Policy and budgetary priority for national security."
+  },
+  {
+    "Chunk ID": 22,
+    "Themes": ["Border Security", "Infrastructure"],
+    "Concise Description": "Redevelop key border posts through public-private partnerships.",
+    "Who/Organization": "Government / Private Sector",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["Key border posts will be re-developed through public-private partnerships..."],
+    "Reasoning": "Plan to use collaborative funding models for border infrastructure."
+  },
+  {
+    "Chunk ID": 22,
+    "Themes": ["Border Security", "Digitalization"],
+    "Concise Description": "Extend Electronic Travel Authorisation to all international airports and the busiest land ports.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["...and will extend the Electronic Travel Authorisation to all international airports and the busiest land ports of entry."],
+    "Reasoning": "Expansion of digital border management capabilities."
+  },
+  {
+    "Chunk ID": 23,
+    "Themes": ["Public Service Reform"],
+    "Concise Description": "Protect key public service appointments from political interference via the Public Service Amendment Bill.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "Ongoing/Legislation passed",
+    "Exact Quotes": ["The Public Service Amendment Bill will protect key appointments from political interference and ensure that capable and qualified people are appointed to senior positions on the basis of their suitability for the job."],
+    "Reasoning": "Legislative commitment to professionalising the public service."
+  },
+  {
+    "Chunk ID": 23,
+    "Themes": ["Public Service Reform", "Accountability"],
+    "Concise Description": "Establish a central registry for disciplinary cases across all spheres of government.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We are establishing a central registry for disciplinary cases across all spheres of government."],
+    "Reasoning": "Reform aimed at preventing employees with disciplinary issues from moving between state entities."
+  },
+  {
+    "Chunk ID": 23,
+    "Themes": ["SOE Governance"],
+    "Concise Description": "Finalise the National State Enterprises Bill and move towards a centralised model for managing SOEs.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "Phased approach",
+    "Exact Quotes": ["We will continue to work in a phased manner towards a centralised model for managing our SOE portfolio... This includes finalising the National State Enterprises Bill in line with this approach."],
+    "Reasoning": "Strategic reorganization of state-owned enterprise management."
+  },
+  {
+    "Chunk ID": 23,
+    "Themes": ["Digital Transformation"],
+    "Concise Description": "Launch a Digital ID to enable secure access to digital services.",
+    "Who/Organization": "Department of Home Affairs (DHA)",
+    "Amount": "N/A",
+    "Timeline": "This year",
+    "Exact Quotes": ["This year, the DHA will launch a Digital ID to enable safe and secure use of digital services for all South Africans."],
+    "Reasoning": "Key project in the country's digital transformation agenda."
+  },
+  {
+    "Chunk ID": 23,
+    "Themes": ["Digital Transformation"],
+    "Concise Description": "Digitise driver's licenses, Matric certificates, and Master's Office services.",
+    "Who/Organization": "Government",
+    "Amount": "N/A",
+    "Timeline": "N/A",
+    "Exact Quotes": ["We will digitise driver's licenses, Matric certificates and services at the Master's Office."],
+    "Reasoning": "Modernisation of essential public services through digitisation."
+  },
+  {
+    "Chunk ID": 24,
+    "Themes": ["Regional Integration", "Trade"],
+    "Concise Description": "Contribute to the implementation of the African Continental Free Trade Area (AfCFTA).",
+    "Who/Organization": "South Africa",
+    "Amount": "N/A",
+    "Timeline": "Ongoing",
+    "Exact Quotes": ["We are contributing to the implementation of the African Continental Free Trade Area to expand trade between African countries, drive industrialisation and create jobs."],
+    "Reasoning": "Commitment to regional economic integration and continental trade."
+  },
+  {
+    "Chunk ID": 25,
+    "Themes": ["Global Inequality"],
+    "Concise Description": "Launch the International Panel on Inequality with international partners.",
+    "Who/Organization": "South Africa / International Partners",
+    "Amount": "N/A",
+    "Timeline": "In progress",
+    "Exact Quotes": ["...we are working with our international partners towards launching the International Panel on Inequality."],
+    "Reasoning": "Diplomatic commitment to addressing global inequality."
+  },
+  {
+    "Chunk ID": 25,
+    "Themes": ["Peacekeeping", "Defence Force"],
+    "Concise Description": "Withdraw troops from the UN Mission in the DRC to consolidate the Defence Force.",
+    "Who/Organization": "South African National Defence Force (SANDF) / UN",
+    "Amount": "N/A",
+    "Timeline": "Requested",
+    "Exact Quotes": ["We have requested the UN to allow us to withdraw our troops from the UN Mission in the Democratic Republic of the Congo with a view to consolidating our Defence Force."],
+    "Reasoning": "Strategic decision to reorganize and consolidate military resources."
+  },
+  {
+    "Chunk ID": 25,
+    "Themes": ["National Dialogue"],
+    "Concise Description": "Spread the National Dialogue process across all communities and sectors of society.",
+    "Who/Organization": "Government / Society",
+    "Amount": "N/A",
+    "Timeline": "This year",
+    "Exact Quotes": ["This year, the National Dialogue process will spread across South Africa, reaching every community, every school, every university and college and every part of our society."],
+    "Reasoning": "Commitment to broad public consultation and consensus-building."
+  },
+  {
+    "Chunk ID": 26,
+    "Themes": ["National Convention", "Future Planning"],
+    "Concise Description": "Convene a National Convention to consolidate public dialogues and guide future actions.",
+    "Who/Organization": "Government / Society",
+    "Amount": "N/A",
+    "Timeline": "Culmination of dialogues",
+    "Exact Quotes": ["These public dialogues will culminate in a National Convention where all of these conversations will be brought together to outline the actions that we must all take to build a better South Africa."],
+    "Reasoning": "Major consultative event to synthesize national goals."
+  },
+  {
+    "Chunk ID": 26,
+    "Themes": ["Future Planning", "National Development Plan"],
+    "Concise Description": "Formulate a national compact and the next phase of the National Development Plan beyond 2030.",
+    "Who/Organization": "Government / Society",
+    "Amount": "N/A",
+    "Timeline": "Post-Convention",
+    "Exact Quotes": ["These conversations will guide the formulation of an overarching national compact and of the next phase of our National Development Plan beyond 2030."],
+    "Reasoning": "Commitment to long-term strategic planning for the nation's development."
+  }
+]

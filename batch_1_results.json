@@ -1,0 +1,159 @@
+[
+  {
+    "chunk_id": 6,
+    "theme": "Crime and Safety",
+    "commitments": [
+      {
+        "Concise Description": "Deployment of SANDF to support SAPS against gang violence and illegal mining.",
+        "Who/Organization": "President, SANDF, SAPS",
+        "Amount": "Not specified",
+        "Timeline": "Within the next few days",
+        "Exact Quotes": [
+          "I am deploying the South African National Defence Force (SANDF) to support the police, as we did to great effect with illegal mining.",
+          "I have directed the Minister of Police and the SANDF to develop a tactical plan where our security forces should be deployed within the next few days in the Western Cape and Gauteng to deal with gang violence and illegal mining."
+        ],
+        "Reasoning": "Organised crime is an immediate threat to democracy and economic development; previous success with illegal mining indicates effectiveness."
+      },
+      {
+        "Concise Description": "Stepping up the fight against organised crime by consolidating intelligence and deploying intervention teams.",
+        "Who/Organization": "Government, Law Enforcement",
+        "Amount": "Not specified",
+        "Timeline": "This year",
+        "Exact Quotes": [
+          "Our primary focus this year is stepping up the fight against organised crime and criminal syndicates using technology, intelligence and integrated law enforcement.",
+          "We will tackle organised crime by consolidating intelligence at national level, identifying priority syndicates and deploying hand-picked, multi-disciplinary intervention teams focused on dismantling criminal networks."
+        ],
+        "Reasoning": "Organised crime is the most immediate threat to democracy, society, and economic development."
+      }
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "theme": "Law Enforcement and Anti-Corruption",
+    "commitments": [
+      {
+        "Concise Description": "Streamline firearm legislation and regulations.",
+        "Who/Organization": "Government, Parliament",
+        "Amount": "Not specified",
+        "Timeline": "Not specified",
+        "Exact Quotes": [
+          "We are going to tackle gun crime by streamlining legislation and regulations on licencing, possessing and trading in firearms and ammunition."
+        ],
+        "Reasoning": "To rid the country of gang violence and tackle gun crime."
+      },
+      {
+        "Concise Description": "Recruitment of 5,500 additional police officers.",
+        "Who/Organization": "SAPS",
+        "Amount": "5,500 officers",
+        "Timeline": "This year",
+        "Exact Quotes": [
+          "We are putting more boots on the ground through the recruitment this year of 5 500 additional police officers..."
+        ],
+        "Reasoning": "To increase police presence and enforcement capabilities."
+      },
+      {
+        "Concise Description": "Establishing a National Illicit Economy Disruption Programme.",
+        "Who/Organization": "State agencies, private sector",
+        "Amount": "Not specified",
+        "Timeline": "Not specified",
+        "Exact Quotes": [
+          "We are establishing a National Illicit Economy Disruption Programme that brings together key state agencies and other stakeholders, including the private sector.",
+          "Through effective use of data analytics and Artificial Intelligence, we will target high-risk sectors like tobacco, fuel, alcohol and other counterfeit products."
+        ],
+        "Reasoning": "To address the threat posed by the infiltration of illegal and counterfeit goods to South African jobs and industry."
+      },
+      {
+        "Concise Description": "Re-vetting Senior Management of SAPS and Metro Police departments.",
+        "Who/Organization": "State Security Agency",
+        "Amount": "Not specified",
+        "Timeline": "Not specified",
+        "Exact Quotes": [
+          "The State Security Agency will re-vet the Senior Management of the SAPS and Metro Police departments. The vetting process will include lifestyle audits."
+        ],
+        "Reasoning": "The Madlanga Commission of Inquiry exposed rampant corruption and abuse of power in SAPS and some Metro Police departments."
+      }
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "theme": "Criminal Justice Reform and Anti-Corruption",
+    "commitments": [
+      {
+        "Concise Description": "Establish a new criminal justice reform initiative.",
+        "Who/Organization": "The Presidency",
+        "Amount": "Not specified",
+        "Timeline": "Not specified",
+        "Exact Quotes": [
+          "we will use a similar approach to establish a hard-hitting new criminal justice reform initiative. This will crack down on organised crime, corruption and the illicit firearms trade using a dedicated team in The Presidency to ensure that reforms are implemented across the system."
+        ],
+        "Reasoning": "To ensure reforms are implemented effectively across the criminal justice system."
+      },
+      {
+        "Concise Description": "Finalise approach to establishing a permanent, independent anti-corruption body.",
+        "Who/Organization": "National Anti-Corruption Advisory Council, Government",
+        "Amount": "Not specified",
+        "Timeline": "Not specified",
+        "Exact Quotes": [
+          "We will finalise government's approach to the recommendation of the National Anti-Corruption Advisory Council on the establishment of a permanent, independent, overarching anti-corruption body."
+        ],
+        "Reasoning": "To further intensify the fight against corruption."
+      },
+      {
+        "Concise Description": "Introduce the Whistle-Blower Protection Bill in Parliament.",
+        "Who/Organization": "Parliament, Government",
+        "Amount": "Not specified",
+        "Timeline": "Not specified",
+        "Exact Quotes": [
+          "The Whistle-Blower Protection Bill will be introduced in Parliament. Among other things, this will criminalise retaliation and provide psychosocial, legal and financial support to whistle-blowers."
+        ],
+        "Reasoning": "To stop the victimisation and targeting of those who speak out against corruption."
+      },
+      {
+        "Concise Description": "Finalisation of new Public Procurement Act regulations.",
+        "Who/Organization": "Government",
+        "Amount": "Not specified",
+        "Timeline": "By mid-2026",
+        "Exact Quotes": [
+          "Measures will include the use of technology and the finalisation of new Public Procurement Act regulations by mid-2026."
+        ],
+        "Reasoning": "To end corruption in the procurement system, which is where the majority of incidents originate according to the Auditor-General."
+      }
+    ]
+  },
+  {
+    "chunk_id": 9,
+    "theme": "Water Security and Infrastructure",
+    "commitments": [
+      {
+        "Concise Description": "Public funding for water and sanitation infrastructure.",
+        "Who/Organization": "Government",
+        "Amount": "R156 billion",
+        "Timeline": "Next three years",
+        "Exact Quotes": [
+          "We have committed more than R156 billion in public funding for water and sanitation infrastructure over the next three years."
+        ],
+        "Reasoning": "To ensure water security in the long term by building new dams and upgrading existing infrastructure."
+      },
+      {
+        "Concise Description": "Establishment of a National Water Resource Infrastructure Agency.",
+        "Who/Organization": "Government",
+        "Amount": "Not specified",
+        "Timeline": "Final stages",
+        "Exact Quotes": [
+          "we are in the final stages of establishing a National Water Resource Infrastructure Agency to effectively manage and mobilise funding for the country's water infrastructure."
+        ],
+        "Reasoning": "To effectively manage and mobilise funding for the country's water infrastructure."
+      },
+      {
+        "Concise Description": "Introduction of the Water Services Amendment Bill.",
+        "Who/Organization": "Parliament, Government",
+        "Amount": "Not specified",
+        "Timeline": "Not specified",
+        "Exact Quotes": [
+          "The Water Services Amendment Bill will enable us to hold water service providers accountable for their performance and withdraw their license if they fail to deliver."
+        ],
+        "Reasoning": "To address root causes of the water crisis and failures in municipality performance."
+      }
+    ]
+  }
+]
