@@ -2,7 +2,7 @@ import json
 import csv
 import sys
 
-input_file = "step3_verified_commitments.json"
+input_file = "step3_verified_commitments_fixed.json"
 output_file = "sona-2026-commitments.csv"
 
 columns = [
