@@ -1,0 +1,88 @@
+# Process Documentation: SoNA 2026 Commitment Extraction and Analysis
+
+## 1. Project Objective
+The goal of this project was to perform a high-fidelity extraction of all official commitments made during the **2026 State of the Nation Address (SoNA)** delivered by President Cyril Ramaphosa on February 12, 2026. 
+
+The target output is a structured dataset (`sona-2026-commitments.csv`) designed for traceability and policy tracking, containing:
+- **Concise Description:** A summary of the promise.
+- **Who/Organization:** The entity responsible for delivery.
+- **Amount:** Specific monetary allocations (where mentioned).
+- **Timeline:** Deadlines or implementation dates.
+- **Exact Quotes:** Verbatim text from the transcript for evidentiary support.
+- **Reasoning:** Linguistic justification for why the text qualifies as a formal commitment.
+
+---
+
+## 2. Source Material
+- **Input File:** `sona-2026-transcript.md`
+- **Content:** The complete transcript of the 2026 State of the Nation Address.
+
+---
+
+## 3. Methodology: Staged Pipeline Architecture
+To ensure zero data loss and eliminate "hallucinations" or missed commitments, we employed a **Staged Pipeline Architecture**. This method breaks the document into small, manageable pieces and uses multiple AI subagents to process them in parallel. Each step generates an intermediate JSON file, allowing for granular audit trails.
+
+---
+
+## 4. Detailed Execution Steps
+
+### Phase 1: Overlapping Segmentation (Chunking)
+- **Action:** Split the 6,000+ word transcript into overlapping segments.
+- **Logic:** Used 500-word chunks with a 150-word overlap. Overlapping ensures that a commitment spanning two paragraphs is never cut in half, preserving its full context for the extraction model.
+- **Artifacts:** `chunk.py`, `step1_chunks.json`.
+
+### Phase 2: Parallel Batch Extraction (Subagents)
+- **Action:** Distributed the 26 chunks across three concurrent **`generalist` subagents**.
+- **Logic:** Smaller batches allow the AI to maintain "High Attention Density," reducing the likelihood of skipping subtle commitments in a long text.
+- **Subagent Task:** Identify themes and extract preliminary commitments with initial metadata.
+- **Artifacts:** `batch_1_results.json`, `batch_2_results.json`, `batch_3_results.json`.
+
+### Phase 3: Consolidation & Deduplication
+- **Action:** Merged the three batch results into a single list.
+- **Logic:** Since the chunks overlapped, many commitments were extracted twice. A Python script was used to combine these and prepare the data for final verification.
+- **Artifacts:** `merge.py`, `step2_extracted_commitments.json`.
+
+### Phase 4: Full-Transcript Verification & "Deep Scan"
+- **Action:** A final verification pass where a subagent cross-referenced the unique list (57-63 entries) against the *entire* original transcript.
+- **Logic:** This step ensures that every detail—especially Amounts and Timelines—is complete. It fills in gaps that might have been missed during the chunked extraction phase.
+- **Artifacts:** `step3_verified_commitments.json`.
+
+### Phase 5: Linguistic Reasoning Refinement
+- **Action:** Re-evaluation of the "Reasoning" column.
+- **Logic:** Initial reasoning provided policy justifications (the "why" of the problem). This was corrected to provide **Linguistic Evidence**.
+- **Refinement:** The reasoning now points to specific "commitment-grade" verbs and phrases (e.g., *"The use of 'I have directed' indicates a high-level executive instruction"* or *"The phrase 'we will introduce' confirms a definite legislative plan"*).
+- **Artifacts:** `step3_verified_commitments_fixed.json`.
+
+---
+
+## 5. Final Transformation & CSV Mapping
+- **Action:** Final conversion of the structured JSON into a tabular CSV format.
+- **Logic:** The script `json_to_csv.py` maps the verified JSON keys to the final six-column structure requested by the project.
+- **Artifacts:** `json_to_csv.py`, `sona-2026-commitments.csv`.
+
+---
+
+## 6. Audit Trail & Traceability Summary
+
+| File Name | Role in Process |
+| :--- | :--- |
+| `chunk.py` | Orchestration script for document segmentation. |
+| `step1_chunks.json` | The transcript divided into 26 overlapping blocks. |
+| `batch_x_results.json` | Raw extractions from parallel AI subagents. |
+| `merge.py` | Consolidates batch results. |
+| `step2_extracted_commitments.json` | The combined, raw dataset of extractions. |
+| `step3_verified_commitments.json` | Final, deduplicated, and verified commitments. |
+| `step3_verified_commitments_fixed.json` | Dataset with corrected linguistic reasoning. |
+| `json_to_csv.py` | Final formatter for CSV output. |
+| `sona-2026-commitments.csv` | **Final Deliverable.** |
+
+---
+
+## 7. Results Summary
+- **Total Unique Commitments:** 63.
+- **Verification Status:** 100% cross-referenced against original text.
+- **Traceability:** All intermediate files and scripts are committed to the repository for independent verification.
+
+---
+**Date:** March 17, 2026  
+**Generated by:** Gemini CLI Agent Project Framework
